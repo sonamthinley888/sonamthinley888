@@ -23,7 +23,7 @@ I’m open to contributing to projects in AI, Machine Learning, and Web Developm
 📫 Reach Me:
 You can email me at sonamthinley91@gmail.com or connect with me here on GitHub!
 
-⚡ Fun fact: I like to make people smile, so if you're looking for a good laugh, I'm your guy! 😄
+⚡ Fun fact: I enjoy hiking and connecting with nature 😄
 
 <!---
 sonamthinley888/sonamthinley888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
