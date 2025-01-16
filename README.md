@@ -7,7 +7,7 @@ Exploring the world of AI, Machine Learning, and Web Development.
 
 🛠 Tech Stack:
 Frontend: React, HTML, CSS, JavaScript
-Backend: Python, Node.js
+Backend: Python, 
 AI/ML: TensorFlow, scikit-learn
 Databases: MongoDB, MySQL
 Tools: Git, GitHub, VSCode, Docker
