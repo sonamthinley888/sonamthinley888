@@ -6,16 +6,16 @@ Building applications using React, JavaScript, and Python.
 Exploring the world of AI, Machine Learning, and Web Development.
 
 🛠 Tech Stack:
-Frontend: React, HTML, CSS, JavaScript
+Frontend: React, HTML, CSS, JavaScript, TypeScript, Material UI, TailwindCSS
 Backend: Python, 
 AI/ML: TensorFlow, scikit-learn
-Databases: MongoDB, MySQL
+Databases: MongoDB, MySQL, Firebase
 Tools: Git, GitHub, VSCode, Docker
 
 🌱 Currently Learning:
-React & Advanced JavaScript
+React & Type Script
 Python for Data Science
-Machine Learning and AI Concepts
+Large Language Models, Machine Learning and AI Concepts
 
 🤝 Let’s Collaborate On:
 I’m open to contributing to projects in AI, Machine Learning, and Web Development. Feel free to reach out if you have a cool project or want to share ideas!
